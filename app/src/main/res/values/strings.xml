@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ProyectoContacto</string>
+    <string name="tiNombre">Nombre completo</string>
+    <string name="tiTelefono">Teléfono</string>
+    <string name="tiEmail">Email</string>
+    <string name="tiFecha">Fecha de nacimiento</string>
+    <string name="tiDescripcion">Descripción Contacto</string>
+    <string name="btnSiguiente">Siguiente</string>
+
+    <string name="tvConfirmar">Confirmar Datos</string>
+    <string name="tvFecha">Fecha Nacimiento:</string>
+    <string name="tvTel">Tel:</string>
+    <string name="tvEmail">Email:</string>
+    <string name="tvDescripcion">Descripción:</string>
+    <string name="btnEditar">Editar Datos</string>
+
+    <string name="clvNombre">nombre</string>
+    <string name="clvFechaD">fechad</string>
+    <string name="clvFechaM">fecham</string>
+    <string name="clvFechaA">fechaa</string>
+    <string name="clvTelefono">telefono</string>
+    <string name="clvEmail">email</string>
+    <string name="clvDescripcion">descripcion</string>
+    <string name="clvParametros">parametros</string>
+
+</resources>
